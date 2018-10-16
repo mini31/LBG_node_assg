@@ -1,0 +1,1 @@
+This text is read from a file using fs module and it is sent to the client from the server
